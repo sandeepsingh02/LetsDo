@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LetsDo</string>
+    <string name="splash_msg">Welcome</string>
+    <string name="to">To</string>
+    <string name="enter_user_id">Enter UserId/Email/Phone</string>
+    <string name="button_signUp">SignUp</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="server_url">http://13.251.4.151:8081/</string>
+    <string name="mallId">3</string>
+    <string name="skip">Skip</string>
+    <string name="_continue">Continue</string>
+</resources>
